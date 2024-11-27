@@ -1,0 +1,1 @@
+This TelegramBot allows you to convert currencies using certain commands. This Bot supports all currencies of the world, and gives the current exchange rates for the current day. With the /set_my_currency (argument) command, you can set the default currency so that you don't have to specify it all the time. 
